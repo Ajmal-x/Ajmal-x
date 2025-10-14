@@ -1,64 +1,61 @@
-<!-- =========================
-     Abdullah Ahmadi — README
-     Polished & professional for GitHub profile
-     ========================= -->
-
-# 👋 Hi — I'm **Abdullah Ahmadi**
-### Abdullah Ahmadi | Full-Stack Developer
+<!-- ====================================
+     Abdullah Ahmadi — Professional GitHub README
+     ==================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Abdullah%20Ahmadi%20%7C%20Full-Stack%20Developer&fontSize=36&color=0:021426,50:0b3450,100:2c5364&animation=fadeIn" alt="cover" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Abdullah%20Ahmadi%20%7C%20Full-Stack%20Developer&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&fontColor=00bfff&fontSize=36&animation=fadeIn" alt="banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Web+Developer;Python+Developer;Learning+React+Native" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Web+Developer;Python+Developer;Learning+React+Native;Building+elegant+digital+experiences+✨" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 **Currently working on:** [Store Management (Team Project)](https://github.com/MohIdrees-Mohammadi/store-management) — collaborative inventory & sales management system.  
-- 🌱 **Learning:** React Native (mobile), advanced backend optimization & security.  
-- 💻 **Role:** Frontend & Backend Developer — I implement polished UIs and robust server-side systems.  
+
+I'm a **Full-Stack MERN Developer** passionate about creating scalable, responsive, and visually stunning web applications.  
+I combine creative frontend design with solid backend logic to bring seamless digital experiences to life.
+
+- 🔭 **Currently working on:** [Store Management (Team Project)](https://github.com/MohIdrees-Mohammadi/store-management)
+- 🌱 **Learning:** React Native, mobile-first design & backend optimization
+- ⚙️ **Skilled in:** Frontend + Backend development
 - 📫 **Email:** elyasspgm@gmail.com  
-- ☕ **Fun fact:** I code best with coffee and late-night design sessions.
+- ☕ **Fun fact:** I code best with coffee and lo-fi beats at midnight
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,mongoose,python,git,github,figma,vscode&theme=dark" alt="tech icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,mongoose,python,git,github,vscode,postman,figma&theme=dark" alt="Tech Stack" />
 </p>
 
-**MERN (Primary):**  
-- **MongoDB** · **Express.js** · **React.js** · **Node.js (REST APIs)**  
-**Frontend & UX:**  
-- HTML5 · CSS3 · Tailwind CSS · Framer Motion · shadcn  
-**Other:**  
-- **Python** (scripting / backend basics) — listed separately (not merged with MERN)  
-**Tools:** Git · GitHub · MongoDB Atlas · VSCode · Postman · Figma
+**Primary Stack (MERN):** MongoDB · Express.js · React.js · Node.js  
+**Frontend Tools:** HTML5 · CSS3 · Tailwind CSS · Framer Motion · Shadcn/UI  
+**Additional:** Python (scripting, backend basics)  
+**Workflow Tools:** Git · GitHub · MongoDB Atlas · Postman · VSCode
 
 ---
 
-## 🧩 Featured & Team Projects
+## 🧩 Featured Projects
 
-### 🔷 [Store Management](https://github.com/MohIdrees-Mohammadi/store-management) — *Team project*  
-Collaborative system for inventory, sales, and analytics. Built with **React** (frontend), **Express** (API), and **MongoDB**. My contributions: UI components, API integration, and feature testing.
+### 🔷 [Store Management System](https://github.com/MohIdrees-Mohammadi/store-management)
+> A collaborative MERN project for inventory, sales, and analytics with modern UI and optimized API performance.
 
-### 🔷 [Top In Town Technology](https://github.com/Ajmal-x/Top-In-Town-Technology)  
-Commercial platform with dashboards, real-time chat, and a modern Tailwind + React UI.
+### 🔷 [Top In Town Technology](https://github.com/Ajmal-x/Top-In-Town-Technology)
+> A commercial platform with interactive dashboards, real-time chat, and beautiful Tailwind + React design.
 
-### 🔶 Personal Portfolio (soon)  
-Animated portfolio showcasing projects and case studies — built with React, Framer Motion, and Tailwind.
+### 🔶 Personal Portfolio (Coming Soon)
+> Smooth animated design built with React + Framer Motion to showcase skills and projects.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajmal-X&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmal-X&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajmal-X&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmal-X&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -66,21 +63,23 @@ Animated portfolio showcasing projects and case studies — built with React, Fr
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ajmal-X&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ajmal-X&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
 
-## 📬 Connect
+## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdullah-ahmadi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://linkedin.com/in/abdullah-ahmadi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="mailto:elyasspgm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="mailto:elyasspgm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
-  <a href="https://github.com/Ajmal-X" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+  <a href="https://github.com/Ajmal-X"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
-> _“Build experiences, not just features — design thoughtfully, ship confidently.”_
+<p align="center">
+  💡 <em>“Build experiences, not just features — design thoughtfully, code confidently.”</em>
+</p>
