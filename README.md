@@ -30,16 +30,11 @@ An e-commerce platform with product management, authentication, shopping cart fu
 ### HireDesk — Applicant Tracking System
 A recruitment platform for managing job listings and candidate applications.
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-**Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
-
-**Backend:** Node.js, Express.js, REST APIs
-
-**Database:** MongoDB
-
-**Tools:** Git, GitHub, VS Code, Postman, Figma
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,figma,postman" alt="Tech Stack" />
+</p>
 ## Current Focus
 
 Improving full-stack architecture, TypeScript skills, application performance, and building production-ready web applications.
