@@ -16,19 +16,38 @@ I build modern, responsive, and scalable web applications with a focus on clean 
 
 ## Featured Projects
 
-### LUMEA — Hotel Booking Platform
-A full-stack hotel booking application with hotel discovery, room browsing, authentication, and booking management.
+<p align="center">
+  <a href="https://github.com/Ajmal-x/Hotel-Booking">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajmal-x&repo=Hotel-Booking&theme=tokyonight&hide_border=true" alt="LUMEA" />
+  </a>
+  <a href="https://github.com/Ajmal-x/ravelo-car-rental">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajmal-x&repo=ravelo-car-rental&theme=tokyonight&hide_border=true" alt="RAVELO" />
+  </a>
+</p>
 
-[Live Demo](https://hotel-booking-9761.vercel.app/) · [Source Code](https://github.com/Ajmal-x/Hotel-Booking)
+<p align="center">
+  <a href="https://github.com/Ajmal-x/MERN-Ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajmal-x&repo=MERN-Ecommerce&theme=tokyonight&hide_border=true" alt="Trendify" />
+  </a>
+  <a href="https://github.com/Ajmal-x/hiredesk-mern">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajmal-x&repo=hiredesk-mern&theme=tokyonight&hide_border=true" alt="HireDesk" />
+  </a>
+</p>
 
-### RAVELO — Car Rental Platform
-A car rental application featuring vehicle discovery, booking workflows, and an owner dashboard.
+### Live Demos
 
-### Trendify — MERN E-Commerce
-An e-commerce platform with product management, authentication, shopping cart functionality, and an admin dashboard.
+| Project | Live Demo | Source Code |
+|---|---|---|
+| **LUMEA** | [Visit Website](https://hotel-booking-9761.vercel.app/) | [GitHub](https://github.com/Ajmal-x/Hotel-Booking) |
+| **RAVELO** | [Visit Website](https://ravelo-car-rental.vercel.app/) | [GitHub](https://github.com/Ajmal-x/ravelo-car-rental) |
+| **Trendify** | [Visit Website](https://mern-ecommerce-qe7e.onrender.com/) | [GitHub](https://github.com/Ajmal-x/MERN-Ecommerce) |
+| **HireDesk** | [Visit Website](https://hirdesk.vercel.app/) | [GitHub](https://github.com/Ajmal-x/hiredesk-mern) |
 
-### HireDesk — Applicant Tracking System
-A recruitment platform for managing job listings and candidate applications.
+---
+
+<p align="center">
+  <a href="https://github.com/Ajmal-x?tab=repositories">Explore All Repositories →</a>
+</p>
 
 <h2 align="center">Tech Stack</h2>
 
