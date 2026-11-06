@@ -70,5 +70,19 @@ I build modern, responsive, and scalable web applications with a focus on clean 
 Improving full-stack architecture, TypeScript skills, application performance, and building production-ready web applications.
 
 ---
+## Let's Connect
+
+<p align="center">
+  <a href="https://af.linkedin.com/in/abdullah-ahmadi-703306364">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdullah.ah5695@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to collaboration and interesting development projects.</i>
+</p>
 
 *Building, learning, and improving — one project at a time.*
