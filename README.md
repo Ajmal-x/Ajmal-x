@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/github-banner.png" alt="Abdullah Ahmadi - Full Stack Developer" width="100%" />
+</p>
+
+
 # Abdullah Ahmadi
 ### Full-Stack Developer
 
