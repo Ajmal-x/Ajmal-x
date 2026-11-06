@@ -35,6 +35,17 @@ A recruitment platform for managing job listings and candidate applications.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,figma,postman" alt="Tech Stack" />
 </p>
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ajmal-x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmal-x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ajmal-x&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 ## Current Focus
 
 Improving full-stack architecture, TypeScript skills, application performance, and building production-ready web applications.
